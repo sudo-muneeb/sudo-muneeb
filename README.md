@@ -21,13 +21,16 @@ I'm a AI major at NUST, passionate about building projects that have a meaning.
 <!-- CONTRIBUTIONS:START -->
 <p>
 <a href="https://github.com/podman-container-tools"><img src="https://img.shields.io/badge/podman--container--tools-0EA5E9?style=for-the-badge&logo=github&logoColor=white" alt="podman-container-tools"/></a>
-<a href="https://github.com/open-telemetry"><img src="https://img.shields.io/badge/open--telemetry-10B981?style=for-the-badge&logo=github&logoColor=white" alt="open-telemetry"/></a>
-<a href="https://github.com/diodon-dev"><img src="https://img.shields.io/badge/diodon--dev-16A34A?style=for-the-badge&logo=github&logoColor=white" alt="diodon-dev"/></a>
-<a href="https://github.com/sktime"><img src="https://img.shields.io/badge/sktime-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="sktime"/></a>
-<a href="https://github.com/linuxmint"><img src="https://img.shields.io/badge/linuxmint-6366F1?style=for-the-badge&logo=github&logoColor=white" alt="linuxmint"/></a>
+<a href="https://github.com/Ad-meliorael"><img src="https://img.shields.io/badge/Ad--meliorael-10B981?style=for-the-badge&logo=github&logoColor=white" alt="Ad-meliorael"/></a>
+<a href="https://github.com/open-telemetry"><img src="https://img.shields.io/badge/open--telemetry-16A34A?style=for-the-badge&logo=github&logoColor=white" alt="open-telemetry"/></a>
+<a href="https://github.com/diodon-dev"><img src="https://img.shields.io/badge/diodon--dev-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="diodon-dev"/></a>
+<a href="https://github.com/sktime"><img src="https://img.shields.io/badge/sktime-6366F1?style=for-the-badge&logo=github&logoColor=white" alt="sktime"/></a>
+<a href="https://github.com/jgraph"><img src="https://img.shields.io/badge/jgraph-06B6D4?style=for-the-badge&logo=github&logoColor=white" alt="jgraph"/></a>
+<a href="https://github.com/linuxmint"><img src="https://img.shields.io/badge/linuxmint-A78BFA?style=for-the-badge&logo=github&logoColor=white" alt="linuxmint"/></a>
 <a href="https://github.com/haitezaz"><img src="https://img.shields.io/badge/haitezaz-F59E0B?style=for-the-badge&logo=github&logoColor=white" alt="haitezaz"/></a>
 <a href="https://github.com/ashthecoder05"><img src="https://img.shields.io/badge/ashthecoder05-F97316?style=for-the-badge&logo=github&logoColor=white" alt="ashthecoder05"/></a>
 <a href="https://github.com/adi1090x"><img src="https://img.shields.io/badge/adi1090x-EF4444?style=for-the-badge&logo=github&logoColor=white" alt="adi1090x"/></a>
+<a href="https://github.com/ben-milanko"><img src="https://img.shields.io/badge/ben--milanko-FB923C?style=for-the-badge&logo=github&logoColor=white" alt="ben-milanko"/></a>
 </p>
 <!-- CONTRIBUTIONS:END -->
 
