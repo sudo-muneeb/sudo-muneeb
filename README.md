@@ -23,8 +23,8 @@ I'm a AI major at NUST, passionate about building projects that have a meaning.
 <a href="https://github.com/podman-container-tools"><img src="https://img.shields.io/badge/podman--container--tools-0EA5E9?style=for-the-badge&logo=github&logoColor=white" alt="podman-container-tools"/></a>
 <a href="https://github.com/Ad-meliorael"><img src="https://img.shields.io/badge/Ad--meliorael-10B981?style=for-the-badge&logo=github&logoColor=white" alt="Ad-meliorael"/></a>
 <a href="https://github.com/open-telemetry"><img src="https://img.shields.io/badge/open--telemetry-16A34A?style=for-the-badge&logo=github&logoColor=white" alt="open-telemetry"/></a>
-<a href="https://github.com/diodon-dev"><img src="https://img.shields.io/badge/diodon--dev-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="diodon-dev"/></a>
-<a href="https://github.com/sktime"><img src="https://img.shields.io/badge/sktime-6366F1?style=for-the-badge&logo=github&logoColor=white" alt="sktime"/></a>
+<a href="https://github.com/sktime"><img src="https://img.shields.io/badge/sktime-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="sktime"/></a>
+<a href="https://github.com/diodon-dev"><img src="https://img.shields.io/badge/diodon--dev-6366F1?style=for-the-badge&logo=github&logoColor=white" alt="diodon-dev"/></a>
 <a href="https://github.com/jgraph"><img src="https://img.shields.io/badge/jgraph-06B6D4?style=for-the-badge&logo=github&logoColor=white" alt="jgraph"/></a>
 <a href="https://github.com/linuxmint"><img src="https://img.shields.io/badge/linuxmint-A78BFA?style=for-the-badge&logo=github&logoColor=white" alt="linuxmint"/></a>
 <a href="https://github.com/haitezaz"><img src="https://img.shields.io/badge/haitezaz-F59E0B?style=for-the-badge&logo=github&logoColor=white" alt="haitezaz"/></a>
